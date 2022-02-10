@@ -1,0 +1,7 @@
+name: Guitutorial
+version: '${project.version}'
+main: com.decay.guitutorial.Main
+api-version: 1.18
+commands:
+  opengui:
+

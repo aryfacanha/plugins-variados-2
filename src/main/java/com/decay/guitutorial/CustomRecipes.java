@@ -12,6 +12,4 @@ public class CustomRecipes extends JavaPlugin {
 
     ItemMeta meta = result.getItemMeta();
 
-
-
 }

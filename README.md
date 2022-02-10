@@ -7,7 +7,7 @@
   - Picareta de Diamante encantada com Eficiência V e Durabilidade III
   - Crafting:
   
-![Crafting Super Pica Reta](https://imgur.com/u4EFZjH - "Crafting Super Pica Reta")
+![Crafting Super Pica Reta](https://imgur.com/u4EFZjH "Crafting Super Pica Reta")
 
 ### Evento testado
 

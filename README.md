@@ -3,11 +3,11 @@
 
 ### Crafting criado
 
-- Super Pica Reta
+- Super Picareta
   - Picareta de Diamante encantada com Eficiência V e Durabilidade III
   - Crafting:
   
-![Crafting Super Pica Reta](https://i.imgur.com/u4EFZjH.png "Crafting da Super Pica Reta")
+![Crafting Super Picareta](https://i.imgur.com/u4EFZjH.png "Crafting da Super Picareta")
 
 ### Evento testado
 
